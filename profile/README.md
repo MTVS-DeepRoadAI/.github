@@ -2,7 +2,7 @@ DeepRoad AI Solution
 =============
 <b>이상 차량 추적 및 탐지 AI 솔루션</b><br>
 
-<b>진행기간</b> : 2022.08.09 ~ 2022.08.30 <br>
+<b>진행기간</b> : 2022.08.09 ~ 2022.08.30 <br><br>
 
 ## Co-work
 - [Notion](https://wistful-breath-da4.notion.site/DeepRoad-cf502a319cce4d21a3e911bae5f0edca)
