@@ -27,4 +27,4 @@ DeepRoad AI Solution
 ## 🧑‍ 팀원 소개
 | [김태현](https://github.com/ktaehyun) | [박찬영](https://github.com/Jneck)| [오현승](https://github.com/OHxhxs) | [권회은](https://github.com/heweun) | [최나영](https://github.com/cny689) | [안현준](https://github.com/Hyunjaa) |
 | :----: | :----: | :----: | :----: | :----: | :----: |
-| AI Develop | AI Develop | AI Develop | Support | Server | Server |
+| AI Develop | AI Develop | AI Develop | Support | Support | Support |
